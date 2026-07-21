@@ -7,7 +7,6 @@ I enjoy building projects, exploring AI, cybersecurity, and cloud computing, and
 ### Currently
 - 🌱 Learning Python, AI, and AWS
 - 💻 Building projects through AI
-- 📖 Preparing for engineering studies
 - 🚀 Always curious to learn something new
 
 >Thanks for visiting my profile!
