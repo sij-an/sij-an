@@ -9,4 +9,4 @@ I enjoy building projects, exploring AI, cybersecurity, and cloud computing, and
 - 💻 Building projects through AI
 - 🚀 Always curious to learn something new
 
->Thanks for visiting my profile!
+Thanks for visiting my profile!😘
